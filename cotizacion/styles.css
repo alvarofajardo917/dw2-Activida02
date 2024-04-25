@@ -1,0 +1,30 @@
+/* styles.css */
+body {
+    padding-top: 50px;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 800px; /* Modificado para que la página sea más amplia */
+    margin-top: 20px; /* Agregado para dar un espacio superior */
+}
+
+.card {
+    border: none;
+}
+
+#resultado {
+    display: none;
+}
+
+#cotizacionDetalle {
+    margin-top: 20px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+}
+
+.card-text {
+    font-size: 1.2rem;
+}
