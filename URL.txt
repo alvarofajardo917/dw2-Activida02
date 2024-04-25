@@ -1,2 +1,2 @@
-URL del proyecto en github dw2-Activida02  =  
+URL del proyecto en github dw2-Activida02  =   https://github.com/alvarofajardo917/dw2-Activida02  
 ◦ URL del proyecto original en el cual se basaron.  =   https://github.com/C-Alvarez98/Proyecto-Electro.
